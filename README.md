@@ -1,11 +1,11 @@
-<h1 align="center">👋 Hey, I'm Chirag Shukla</h1>
+<h2 align="center">👋 Hey, I'm Chirag Shukla</h2>
 <h3 align="center">🎓 Final Year Student @ IIIT Kalyani | 💻 Aspiring Software Developer</h3>
 
 ---
 
-~ I'm currently learning backend development in depth.
-~ Worked as a software developer intern at Sandlogic.
-~ Highly flexible and adaptable to tech stacks.
+<p>🔸 I'm currently learning backend development in depth.</p>
+<p>🔸 Worked as a software developer intern at Sandlogic.<p/>
+<p>🔸 Highly flexible and adaptable to tech stacks.</p>
 
 ---
 
