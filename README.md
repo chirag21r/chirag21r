@@ -1,7 +1,9 @@
 <h2 align="center">👋 Hey, I'm Chirag Shukla</h2>
 <h3 align="center">🎓 Final Year Student @ IIIT Kalyani | Aspiring Software Developer</h3>
 
-![HackerBongoCat](https://raw.githubusercontent.com/chirag21r/chirag21r/main/1261-hackerbongocat.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chirag21r/chirag21r/main/1261-hackerbongocat.gif" alt="HackerBongoCat" />
+</p>
 
 ---
 
