@@ -3,6 +3,15 @@
 
 ---
 
+## 🚀 Top Projects
+- 🔹 [Thread master](https://github.com/chirag21r/Thread-Master-Web-Server)  
+- 🔹 [Project 2](#)  
+- 🔹 [Project 3](#)  
+- 🔹 [Project 4](#)  
+- 🔹 [Project 5](#)  
+
+---
+
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/chirag-shukla-107a4225a">
@@ -31,13 +40,6 @@
 
 ---
 
-## 🚀 Top Projects
-🧬 🔹 [Thread master](https://github.com/chirag21r/Thread-Master-Web-Server)  
-🎗️ 🔹 [Mini CRM](https://github.com/chirag21r/CRM-Application)  
-📊 🔹 [Voting System](https://github.com/chirag21r/Voting-System)  
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chirag21r&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="150"/>
@@ -60,22 +62,3 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=chirag21r&icon=0&color=0" />
 </p>
-
-<!-- Made with ❤️ using GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
-**chirag21r/chirag21r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
