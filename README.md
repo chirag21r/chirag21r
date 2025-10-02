@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hey, I'm Chirag Shukla</h2>
 <h3 align="center">🎓 Final Year Student @ IIIT Kalyani | Aspiring Software Developer</h3>
-![HackerBongoCat](1261-!hackerbongocat.gif)
+![HackerBongoCat](1261-hackerbongocat.gif)
 
 ---
 
