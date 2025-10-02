@@ -4,11 +4,9 @@
 ---
 
 ## 🚀 Top Projects
-- 🔹 [Thread master](https://github.com/chirag21r/Thread-Master-Web-Server)  
-- 🔹 [Project 2](#)  
-- 🔹 [Project 3](#)  
-- 🔹 [Project 4](#)  
-- 🔹 [Project 5](#)  
+🧬 🔹 [Thread master](https://github.com/chirag21r/Thread-Master-Web-Server)  
+🎗️ 🔹 [Mini CRM](https://github.com/chirag21r/CRM-Application)  
+📊 🔹 [Voting System](https://github.com/chirag21r/Voting-System)  
 
 ---
 
