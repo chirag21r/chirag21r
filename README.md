@@ -3,10 +3,21 @@
 
 ---
 
+~ I'm currently learning backend development in depth.
+~ Worked as a software developer intern at Sandlogic.
+~ Highly flexible and adaptable to tech stacks.
+
+---
+
+🌱 Take a glance at my overall experience and growth : [Resume](https://drive.google.com/file/d/1IwtbfTzD0Ti4AC_800jp6Z8qUyWEWpqU/view?usp=sharing)
+
+---
+
+
 ## 🚀 Top Projects
-🧬 🔹 [Thread master](https://github.com/chirag21r/Thread-Master-Web-Server)  
-🎗️ 🔹 [Mini CRM](https://github.com/chirag21r/CRM-Application)  
-📊 🔹 [Voting System](https://github.com/chirag21r/Voting-System)  
+🔹 [Thread master](https://github.com/chirag21r/Thread-Master-Web-Server)  
+🔹 [Mini CRM](https://github.com/chirag21r/CRM-Application)  
+🔹 [Voting System](https://github.com/chirag21r/Voting-System)  
 
 ---
 
