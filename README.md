@@ -32,7 +32,7 @@
 ---
 
 ## 🚀 Top Projects
-- 🔹 [Thread master](#https://github.com/chirag21r/Thread-Master-Web-Server)  
+- 🔹 [Thread master](https://github.com/chirag21r/Thread-Master-Web-Server)  
 - 🔹 [Project 2](#)  
 - 🔹 [Project 3](#)  
 - 🔹 [Project 4](#)  
