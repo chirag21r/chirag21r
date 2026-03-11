@@ -13,7 +13,7 @@
 ---
 
 <p>🔸 Currently learning backend development in depth.</p>
-<p>🔸 Worked as a software developer intern at Sandlogic.<p/>
+<p>🔸 Worked as a software developer intern at Branch International.<p/>
 <p>🔸 Highly flexible and adaptable to tech stacks.</p>
 
 ---
